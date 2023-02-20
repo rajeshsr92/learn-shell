@@ -1,4 +1,3 @@
 # learn-shell
 
-We will learning Shell script here
-Hi
+Shell Sripting Topics
